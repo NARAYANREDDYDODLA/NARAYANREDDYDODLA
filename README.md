@@ -1,16 +1,32 @@
-### Hi there 👋
+# 🗺️ Location Map Project
 
-<!--
-**NARAYANREDDYDODLA/NARAYANREDDYDODLA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+A simple **location search and map visualization** project built with **React** and **TypeScript**.  
+This application allows users to search for locations and view them interactively on a map.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...project
-- 🌱 I’m currently learning ...html
-- 👯 I’m looking to collaborate to work together or with someone else for a purpose.
-- 🤔 I’m looking for help with ...developing in technical skills.
-- 💬 Ask me about cricket
-- 📫 How to reach me: ...narayanreddydnr@gmail.com
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...Snails can regenerate their eyes
--->
+## 🚀 Features
+- 🔎 Location search functionality  
+- 📍 Display searched locations on the map  
+- ⚡ Built with React + TypeScript for type safety and scalability  
+- 🎨 Clean UI with TailwindCSS 
+- 🌍 Interactive map integration  
+
+---
+
+## 🛠️ Tech Stack
+- **Frontend:** React, TypeScript  
+- **Styling:** TailwindCSS / CSS Modules (adjust based on what you used)  
+- **Map Library:** (e.g., Google Maps API, Leaflet, Mapbox )  
+- **Build Tool:** Vite 
+
+---
+
+## 📦 Installation & Setup
+
+Clone the repository and install dependencies:
+
+```bash
+git clone https://github.com/NARAYANREDDYDODLA/location-map-project.git
+cd location-map-project
+npm install
